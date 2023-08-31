@@ -3,5 +3,6 @@ CTI 110
 
 
 This repository is owned by M Brown
-Back uo for CTI 110 
-Esample of prgramming skills
+
+1.Back uo for CTI 110 
+2.Example of prgramming skills
